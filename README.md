@@ -1,2 +1,2 @@
-# Class26
-gitbash , adding a playform
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
